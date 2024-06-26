@@ -1,5 +1,5 @@
 /**
-  ** (_dsa_23)  **)
+  ** **)
 
   C++ Custom Implementation Of Some Data Structures
   Namespaces: (_ags,ContagiousLists,LinkedLists,Queues,Stacks ...)
